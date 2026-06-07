@@ -55,7 +55,7 @@ Apache-2.0 — see [LICENSE](./LICENSE).
 
 ## About
 
-Part of [Sentinel Labs](https://sentinels.today). Other components:
+Part of [Sentinels](https://sentinels.today). Other components:
 [`sentinel-agent`](https://github.com/Sentinels-Today/sentinel-agent) ·
 [`sentinel-cloud`](https://github.com/Sentinels-Today/sentinel-cloud) ·
 [`sentinel-dashboard`](https://github.com/Sentinels-Today/sentinel-dashboard) ·

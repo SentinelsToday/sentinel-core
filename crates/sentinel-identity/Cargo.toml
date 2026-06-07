@@ -7,7 +7,7 @@ repository.workspace = true
 homepage.workspace = true
 authors.workspace = true
 rust-version.workspace = true
-description = "Ed25519 device identity, key generation, and DID resolution for Sentinel Labs."
+description = "Ed25519 device identity, key generation, and DID resolution for Sentinels."
 
 [dependencies]
 ed25519-dalek = { workspace = true }

@@ -1,4 +1,4 @@
-//! `sentinel-core` is the umbrella crate for the Sentinel Labs trust engine.
+//! `sentinel-core` is the umbrella crate for the Sentinels trust engine.
 //!
 //! It re-exports the four building blocks:
 //!

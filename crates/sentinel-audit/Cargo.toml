@@ -7,7 +7,7 @@ repository.workspace = true
 homepage.workspace = true
 authors.workspace = true
 rust-version.workspace = true
-description = "Hash-chained, tamper-evident audit log for Sentinel Labs."
+description = "Hash-chained, tamper-evident audit log for Sentinels."
 
 [dependencies]
 sentinel-identity = { path = "../sentinel-identity", version = "0.1.0" }

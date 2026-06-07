@@ -1,4 +1,4 @@
-//! Device identity primitives for Sentinel Labs.
+//! Device identity primitives for Sentinels.
 //!
 //! A [`DeviceIdentity`] pairs an Ed25519 keypair with a deterministic
 //! decentralized identifier (`did:sentinel:<hex>`). Identities can sign and

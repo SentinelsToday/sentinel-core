@@ -7,7 +7,7 @@ repository.workspace = true
 homepage.workspace = true
 authors.workspace = true
 rust-version.workspace = true
-description = "Deterministic trust scoring engine for Sentinel Labs."
+description = "Deterministic trust scoring engine for Sentinels."
 
 [dependencies]
 serde = { workspace = true }

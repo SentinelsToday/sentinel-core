@@ -1,4 +1,4 @@
-//! Attestation claims for Sentinel Labs.
+//! Attestation claims for Sentinels.
 //!
 //! A [`Claim`] is a structured statement about a device (firmware hash,
 //! measured boot PCR digest, software bill of materials, etc.) signed with the
